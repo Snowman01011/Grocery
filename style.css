@@ -1,1 +1,24 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<link rel="stylesheet" href="signin.css">
+</head>
+<body>
+<div class="main">
+  <img src="" alt="logo">
+    <h1 class="unknown">Unknown</h1>
+    <h4 class="create">create your account</h4>
+    <input type="text" placeholder="Username"><br>
+    <input type="email" placeholder="Email"><br><input type="password" placeholder="Password"><br>
+    <input type="password" placeholder="Confirm password"><br>
+    <button class="sign">sign up </button><br>
+    <label class="or">or</label><br>
+    <button class="google">sign up with google</button><br>
+    <label class="already">Already have an account?</label>
+    <a href="" class="login">Login</a>
+</div>
+</body>
+</html>
