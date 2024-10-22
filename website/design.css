@@ -1,0 +1,43 @@
+.interface {
+    height: 200px;
+    width: 180px;
+    background-color: #D2D4DA;
+    border-radius: 10px;
+
+
+}
+.buy-btn {
+height: 35px;
+width: 75px;
+background-color: #01b969;
+border-radius: 20px;
+position: relative;
+top: 157px;
+left: 99px;
+border: 1px ;
+color:white;
+cursor: pointer;
+}
+.add-cart {
+    height: 35px;
+    width: 80px;
+border-radius: 20px;
+ border: 2px solid #01b969;
+position: relative;
+top: 151px;
+right: 75px;
+color:#01b969;
+cursor: pointer;
+}
+.white {
+height: 100px;
+width: 178px;
+background-color: white;
+border: 1px solid #3c549c;
+
+}
+.text {
+    padding-top: 25px;
+    padding-left: 12px;
+    
+}

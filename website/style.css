@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    align-items:center;
+    justify-content: space-evenly;
+    gap: 20px;
+background-color: black;
+}
+.tomato {
+width: 191px;
+height: 135px;
+position: relative;
+bottom: 303px;
+border-radius: 20px;
+}
+.page {
+    height: 300px;
+    width: 225px;
+    background-color:#FFFDD0;
+    border-radius: 20px;
+}
+.buy {
+    height: 27px;
+    width: 159px;
+    position: relative;
+    top: 267px;
+    left: 5px;
+    border-radius: 20px;
+    border: 1px;
+    background-color: rgb(240, 166, 29);
+    cursor: pointer;
+    color:white
+} 
+.text {
+    padding-top: 99px;
+    padding-left: 7px;
+}
+.text1 {
+    padding-left: 7px
+}
+.add {
+height:27px;
+width:159px;
+border-radius: 20px;
+cursor: pointer;
+position: relative;
+top:30px;
+left:7px;
+color: rgb(39, 214, 39);
+border: 2px solid ;
+background-color: white;
+}
